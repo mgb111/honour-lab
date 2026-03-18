@@ -1458,7 +1458,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fov="120" fovfisheye="360"/>
     </view>
-    <userdata nodeid="node84" author="" longitude="78.378361" title="Pilot Lab" datetime="11-03-2026 16:18" copyright="" tags="pilot-lab" customnodeid="" info="" latitude="17.666000" description="" comment="" altitude="552.20" heading="0" source=""/>
+    <userdata nodeid="node84" author="" longitude="78.378361" title="Pilot Lab" datetime="11-03-2026 16:18" copyright="" tags="pilot-lab|Main-menu" customnodeid="" info="" latitude="17.666000" description="" comment="" altitude="552.20" heading="0" source=""/>
     <hotspots wordwrap="1" height="20" width="180">
       <label textcolor="0x000000" wordwrap="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" width="180" border="1" borderradius="1"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
