@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.16/18125
 // Filename: trial.ggsk
-// Generated 2026-04-16T18:57:04
+// Generated 2026-04-16T19:14:13
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -10372,7 +10372,7 @@ function pano2vrSkin(player,base) {
 		els=me._config_button__img=document.createElement('img');
 		els.className='ggskin ggskin_config_button';
 		hs='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QHTaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1LjYuMCI+CiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMj'+
-			'YtMDQtMTZUMTg6NTc6MDQrMDU6MzAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI2LTA0LTE2VDE4OjU3OjA0KzA1OjMwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjE2Ii8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
+			'YtMDQtMTZUMTk6MTQ6MTMrMDU6MzAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI2LTA0LTE2VDE5OjE0OjEzKzA1OjMwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjE2Ii8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
 			'CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4'+
 			'iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASigUetABj3oo7UlACiikooAXtSUUUAf/2Q==';
 		els.setAttribute('src',hs);
@@ -12499,8 +12499,8 @@ function pano2vrSkin(player,base) {
 				if (posX < 0) {
 					var diffX = Math.floor(posX * me._category_scroller.ggHPercentVisible);
 					me._category_scroller.ggScrollByXSmooth(diffX);
-				} else if (posX + width > me._category_scroller.clientWidth - (me._category_scroller.ggVertScrollVisible ? 15 : 0)) {
-					var diffX = Math.ceil(((posX + width) - (me._category_scroller.clientWidth - (me._category_scroller.ggVertScrollVisible ? 15 : 0))) * me._category_scroller.ggHPercentVisible);
+				} else if (posX + width > me._category_scroller.clientWidth - (me._category_scroller.ggVertScrollVisible ? 11 : 0)) {
+					var diffX = Math.ceil(((posX + width) - (me._category_scroller.clientWidth - (me._category_scroller.ggVertScrollVisible ? 11 : 0))) * me._category_scroller.ggHPercentVisible);
 					me._category_scroller.ggScrollByXSmooth(diffX);
 				}
 			}
@@ -12508,8 +12508,8 @@ function pano2vrSkin(player,base) {
 				if (posY < 0) {
 					var diffY = Math.floor(posY * me._category_scroller.ggVPercentVisible);
 					me._category_scroller.ggScrollByYSmooth(diffY);
-				} else if (posY + height > me._category_scroller.clientHeight - (me._category_scroller.ggHorScrollVisible ? 15 : 0)) {
-					var diffY = Math.ceil(((posY + height) - (me._category_scroller.clientHeight - (me._category_scroller.ggHorScrollVisible ? 15 : 0))) * me._category_scroller.ggVPercentVisible);
+				} else if (posY + height > me._category_scroller.clientHeight - (me._category_scroller.ggHorScrollVisible ? 11 : 0)) {
+					var diffY = Math.ceil(((posY + height) - (me._category_scroller.clientHeight - (me._category_scroller.ggHorScrollVisible ? 11 : 0))) * me._category_scroller.ggVPercentVisible);
 					me._category_scroller.ggScrollByYSmooth(diffY);
 				}
 			}
@@ -12559,12 +12559,12 @@ function pano2vrSkin(player,base) {
 		}
 		elHorScrollBg = me._category_scroller__horScrollBg = document.createElement('div');
 		el.appendChild(elHorScrollBg);
-		elHorScrollBg.setAttribute('style', 'position: absolute; left: 0px; bottom: 0px; visibility: hidden; width: 178px; height: 15px; background-color: rgba(128,128,128,1); pointer-events: auto;');
+		elHorScrollBg.setAttribute('style', 'position: absolute; left: 0px; bottom: 0px; visibility: hidden; width: 178px; height: 11px; background-color: rgba(11,36,79,0.392157); pointer-events: auto;');
 		elHorScrollBg.className='ggskin ggskin_scrollarea_hscrollbg';
 		elHorScrollFg = me._category_scroller__horScrollFg = document.createElement('div');
 		elHorScrollBg.appendChild(elHorScrollFg);
 		elHorScrollFg.className='ggskin ggskin_scrollarea_hscrollfg';
-		elHorScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 178px; height: 15px; background-color: rgba(192,192,192,1); pointer-events: auto;');
+		elHorScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 178px; height: 11px; background-color: rgba(255,255,255,0.588235); pointer-events: auto;');
 		me._category_scroller.ggScrollPosX = 0;
 		me._category_scroller.ggScrollPosXPercent = 0.0;
 		elHorScrollFg.onmousedown = function(e) {
@@ -12659,11 +12659,11 @@ function pano2vrSkin(player,base) {
 		});
 		elVertScrollBg = me._category_scroller__vertScrollBg = document.createElement('div');
 		el.appendChild(elVertScrollBg);
-		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 15px; height: 350px; background-color: rgba(128,128,128,1); pointer-events: auto;');
+		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 11px; height: 350px; background-color: rgba(11,36,79,0.392157); pointer-events: auto;');
 		elVertScrollBg.className='ggskin ggskin_scrollarea_vscrollbg';
 		elVertScrollFg = me._category_scroller__vertScrollFg = document.createElement('div');
 		elVertScrollBg.appendChild(elVertScrollFg);
-		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 15px; height: 350px; background-color: rgba(192,192,192,1); pointer-events: auto;');
+		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 11px; height: 350px; background-color: rgba(255,255,255,0.588235); pointer-events: auto;');
 		elVertScrollFg.className='ggskin ggskin_scrollarea_vscrollfg';
 		me._category_scroller.ggScrollPosY = 0;
 		me._category_scroller.ggScrollPosYPercent = 0.0;
@@ -12759,7 +12759,7 @@ function pano2vrSkin(player,base) {
 		});
 		elCornerBg = me._category_scroller__cornerBg = document.createElement('div');
 		el.appendChild(elCornerBg);
-		elCornerBg.setAttribute('style', 'position: absolute; right: 0px; bottom: 0px; visibility: hidden; width: 15px; height: 15px; background-color: rgba(255,255,255,1);');
+		elCornerBg.setAttribute('style', 'position: absolute; right: 0px; bottom: 0px; visibility: hidden; width: 11px; height: 11px; background-color: rgba(255,255,255,1);');
 		elCornerBg.className='ggskin ggskin_scrollarea_scrollcorner';
 		el.ggId="category_scroller";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
@@ -12768,7 +12768,7 @@ function pano2vrSkin(player,base) {
 		el.ggType='scrollarea';
 		hs ='';
 		hs+='border : 0px solid #000000;';
-		hs+='height : calc(100%  -  50px);';
+		hs+='height : calc(100%  -  75px);';
 		hs+='left : 0px;';
 		hs+='overflow : hidden;';
 		hs+='position : absolute;';
@@ -12851,7 +12851,7 @@ function pano2vrSkin(player,base) {
 					me._category_scroller__horScrollFg.style.visibility = 'hidden';
 					me._category_scroller.ggHorScrollVisible = false;
 				}
-				if ((me._category_scroller.ggHorScrollVisible && contentHeight > this.clientHeight - 15) || (!me._category_scroller.ggHorScrollVisible && contentHeight > this.clientHeight)) {
+				if ((me._category_scroller.ggHorScrollVisible && contentHeight > this.clientHeight - 11) || (!me._category_scroller.ggHorScrollVisible && contentHeight > this.clientHeight)) {
 					me._category_scroller__vertScrollBg.style.visibility = 'inherit';
 					me._category_scroller__vertScrollFg.style.visibility = 'inherit';
 					me._category_scroller.ggVertScrollVisible = true;
@@ -12866,9 +12866,9 @@ function pano2vrSkin(player,base) {
 					me._category_scroller.ggVertScrollVisible = false;
 				}
 				if(me._category_scroller.ggHorScrollVisible) {
-					me._category_scroller.ggAvailableHeight = me._category_scroller.clientHeight - 15;
+					me._category_scroller.ggAvailableHeight = me._category_scroller.clientHeight - 11;
 					if (me._category_scroller.ggVertScrollVisible) {
-						me._category_scroller.ggAvailableWidth = me._category_scroller.clientWidth - 15;
+						me._category_scroller.ggAvailableWidth = me._category_scroller.clientWidth - 11;
 						me._category_scroller.ggAvailableWidthWithScale = me._category_scroller.getBoundingClientRect().width - me._category_scroller__horScrollBg.getBoundingClientRect().height;
 					} else {
 						me._category_scroller.ggAvailableWidth = me._category_scroller.clientWidth;
@@ -12893,9 +12893,9 @@ function pano2vrSkin(player,base) {
 					me._category_scroller__content.style.left = this.ggContentLeftOffset + 'px';
 				}
 				if(me._category_scroller.ggVertScrollVisible) {
-					me._category_scroller.ggAvailableWidth = me._category_scroller.clientWidth - 15;
+					me._category_scroller.ggAvailableWidth = me._category_scroller.clientWidth - 11;
 					if (me._category_scroller.ggHorScrollVisible) {
-						me._category_scroller.ggAvailableHeight = me._category_scroller.clientHeight - 15;
+						me._category_scroller.ggAvailableHeight = me._category_scroller.clientHeight - 11;
 						me._category_scroller.ggAvailableHeightWithScale = me._category_scroller.getBoundingClientRect().height - me._category_scroller__vertScrollBg.getBoundingClientRect().width;
 						me._category_scroller__cornerBg.style.visibility = 'inherit';
 					} else {
@@ -13224,7 +13224,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 20px;';
-		hs+='left : 5px;';
+		hs+='left : 10px;';
 		hs+='position : absolute;';
 		hs+='top : 2%;';
 		hs+='visibility : inherit;';
@@ -13257,7 +13257,7 @@ function pano2vrSkin(player,base) {
 					me._menu_open.style.top='2%';
 				}
 				else {
-					me._menu_open.style.left='5px';
+					me._menu_open.style.left='10px';
 					me._menu_open.style.top='2%';
 				}
 			}
@@ -20972,11 +20972,11 @@ this.__div.style.top = vs.height / 2 + "px";
 		hs+='background: #17479d;';
 		hs+='border: 0px solid #ffffff;';
 		hs+='color: rgba(255,255,255,1);';
-		hs+='font-size: 14px;';
+		hs+='font-size: 12px;';
 		hs+='font-weight: inherit;';
 		hs+='text-align: center;';
 		hs+='white-space: pre-wrap;';
-		hs+='padding: 2px 1px 2px 1px;';
+		hs+='padding: 3px 1px 3px 1px;';
 		hs+='overflow: hidden;';
 		els.setAttribute('style',hs);
 		els.innerHTML=me.ggTitle;
@@ -21325,8 +21325,8 @@ this.__div.style.top = vs.height / 2 + "px";
 		hs+='bottom:  0px;';
 		hs+='width: 136px;';
 		hs+='height: auto;';
-		hs+='background: #000000;';
-		hs+='background: rgba(0,0,0,0.392157);';
+		hs+='background: #0a2148;';
+		hs+='background: rgba(10,33,72,0.392157);';
 		hs+='border: 0px solid #000000;';
 		hs+='color: rgba(255,255,255,1);';
 		hs+='text-align: center;';
@@ -21471,7 +21471,7 @@ this.__div.style.top = vs.height / 2 + "px";
 	me.addSkin();
 	var style = document.createElement('style');
 	style.type = 'text/css';
-	style.appendChild(document.createTextNode('.ggskin{ font-family: "Inter", sans-serif; font-size: 14px; }'));
+	style.appendChild(document.createTextNode('.ggskin{ font-family: "Inter", sans-serif; font-size: 10px; }'));
 	document.head.appendChild(style);
 	me._screentint.logicBlock_alpha();
 	me._tt_thumbnail_open.logicBlock_text();
