@@ -78,6 +78,7 @@
       <hotspot url="{node39}" id="Point01" skinid="ht_node" description="" pan="-265.29" target="" distance="25.6506" tilt="-8.39" title="Reception Area"/>
       <hotspot url="{node4}" id="Point02" skinid="ht_node" description="" pan="-341.47" target="" distance="24.667" tilt="-11.26" title="NMR - Workstation"/>
       <hotspot url="{node35}" id="Point03" skinid="ht_node" description="" pan="-86.39" target="" distance="56.4875" tilt="-1.28" title="PR&amp;D Corridor - View 2"/>
+      <hotspot url="" id="Point04" skinid="ht_info" description="" pan="-0.37" target="" tilt="-5.7" title="Access Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -106,6 +107,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node3}" id="Point02" skinid="ht_node" description="" pan="-131.85" target="" tilt="-1.18" title="NMR - Sample Preparation Zone"/>
+      <hotspot url="" id="Point01" skinid="ht_info" description="" pan="-65.69" target="" tilt="-5.28" title="No touch Exit Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -162,6 +164,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node35}" id="Point01" skinid="ht_node" description="" pan="-37.83" target="" distance="67.1979" tilt="3.98" title="PR&amp;D Corridor - View 2"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-336.72" target="" tilt="4.44" title="NMR Video "/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -561,6 +564,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node23}" id="Point01" skinid="ht_node" description="" pan="-303.32" target="" tilt="-11.06" title="Lab III - View 2"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-154.65" target="" tilt="15.29" title="Mya4 video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -645,6 +649,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node26}" id="Point01" skinid="ht_node" description="" pan="-318.42" target="" tilt="-11.08" title="Lab III - View 5"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-153.59" target="" tilt="15.32" title="Double Jacketed Reactor Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -701,6 +706,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node29}" id="Point01" skinid="ht_node" description="" pan="-313.37" target="" tilt="-9.2" title="Lab III - View 7"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-7.87" target="" tilt="-2.81" title="Rotavap video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -984,6 +990,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node52}" id="Point01" skinid="ht_node" description="" pan="-200.43" target="" tilt="-7.61" title="Process Safety Lab - View 3"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-136.98" target="" tilt="22.83" title="Reaction Calorimeter Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -1040,6 +1047,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node54}" id="Point01" skinid="ht_node" description="" pan="-105.83" target="" tilt="-15.37" title="Process Safety Lab - Powder Safety - View 2"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-20.01" target="" tilt="-1.96" title="Minimum Ignition Energy Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -1379,6 +1387,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node70}" id="Point01" skinid="ht_node" description="" pan="-143.13" target="" distance="58.7916" tilt="-0.28" title="KiloLab - Filtration Area"/>
+      <hotspot url="" id="Point02" skinid="ht_url" description="" pan="-352.53" target="_blank" tilt="12.12" title="Maximum Capacity Reactor Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -2339,6 +2348,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node125}" id="Point01" skinid="ht_node" description="" pan="-93.66" target="" tilt="-16.09" title="Wet Chemistry - View 2"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-358.97" target="" tilt="31.44" title="Coulometer Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
@@ -3019,6 +3029,7 @@
       <label borderalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" borderradius="1" height="20" bordercolor="0x000000"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
       <hotspot url="{node160}" id="Point01" skinid="ht_node" description="" pan="-195.85" target="" distance="27.9455" tilt="-13.07" title="Analytical R&amp;D Corridor - View 7"/>
+      <hotspot url="" id="Point02" skinid="ht_info" description="" pan="-287.55" target="" tilt="-2.89" title="Nitrogen Sealing Video"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
