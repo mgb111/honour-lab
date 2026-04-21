@@ -164,7 +164,7 @@
       <label height="20" backgroundalpha="1" borderradius="1" textcolor="0x000000" enabled="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" borderalpha="1" width="180" textalpha="1" background="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
       <hotspot id="Point01" pan="-37.83" description="" distance="67.1979" tilt="3.98" skinid="ht_node" target="" title="PR&amp;D Corridor - View 2" url="{node35}"/>
-      <hotspot id="Point02" pan="-336.72" description="" tilt="4.44" skinid="ht_video_file" target="" title="" url="media/NMR.mp4"/>
+      <hotspot id="Point02" pan="-344.1" description="" tilt="8.59" skinid="ht_video_file" target="" title="" url="media/NMR.mp4"/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomafteroutfov="20" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0"/>
