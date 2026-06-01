@@ -1416,7 +1416,7 @@
       <hotspot id="Point01" pan="-304.8" skinid="ht_node" url="{node76}" target="" description="" title="KiloLab - View 3" tilt="-9.51"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-157.820" mode="3" tiltsize="10.000" level="1.000" tilt="-19.700" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-157.820" mode="2" tiltsize="10.000" level="1.000" tilt="-19.700" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/Kilolab 78.mp3"/>
       </sound>
     </media>
@@ -1902,7 +1902,8 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-288.32" distance="43.0325" skinid="ht_node" url="{node163}" target="" description="" title="Analytical R&amp;D Entrance" tilt="-10.08"/>
       <hotspot id="Point02" pan="-12.27" distance="59.3816" skinid="ht_node" url="{node93}" target="" description="" title="Mass Spectroscopy" tilt="-1.97"/>
-      <hotspot id="Point03" pan="-126.2" distance="34.6356" skinid="ht_node" url="{node110}" target="" description="" title="Liquid Chromatography" tilt="-10.49"/>
+      <hotspot id="Point03" pan="-164.18" distance="34.6356" skinid="ht_node" url="{node110}" target="" description="" title="Liquid Chromatography" tilt="-6.11"/>
+      <hotspot id="Point04" pan="-103.2" skinid="ht_node" url="{node115}" target="" description="" title="Analytical R&amp;D Corridor - View 2" tilt="-0.63"/>
     </hotspots>
     <media/>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -2250,6 +2251,7 @@
       <hotspot id="Point01" pan="-265.75" skinid="ht_node" url="{node113}" target="" description="" title="Analytical R&amp;D Corridor" tilt="-5.59"/>
       <hotspot id="Point02" pan="-333.82" distance="38.0825" skinid="ht_node" url="{node102}" target="" description="" title="Preparative Chromatography" tilt="-14.03"/>
       <hotspot id="Point03" pan="-33.53" distance="26.2406" skinid="ht_node" url="{node124}" target="" description="" title="Wet Chemistry" tilt="-15.33"/>
+      <hotspot id="Point04" pan="-84" distance="15.9895" skinid="ht_node" url="{node149}" target="" description="" title="Analytical R&amp;D Corridor - View 3" tilt="-3.17"/>
     </hotspots>
     <media/>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -3072,6 +3074,7 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-253.71" distance="28.2335" skinid="ht_node" url="{node123}" target="" description="" title="Analytical R&amp;D Corridor - View 5" tilt="-12.81"/>
       <hotspot id="Point02" pan="-325.52" distance="21.683" skinid="ht_node" url="{node156}" target="" description="" title="Stability Zone" tilt="-13.56"/>
+      <hotspot id="Point03" pan="-74.15" distance="6.75171" skinid="ht_node" url="{node160}" target="" description="" title="Analytical R&amp;D Corridor - View 7" tilt="-3.85"/>
     </hotspots>
     <media/>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -3130,6 +3133,7 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-151.56" distance="6.75171" skinid="ht_node" url="{node157}" target="" description="" title="Analytical R&amp;D Corridor - View 6" tilt="-12.17"/>
       <hotspot id="Point02" pan="-32.72" distance="10.9718" skinid="ht_node" url="{node159}" target="" description="" title="Document Archival Zone - View 2" tilt="-11.48"/>
+      <hotspot id="Point03" pan="-331.76" distance="99.1319" skinid="ht_node" url="{node91}" target="" description="" title="R&amp;D Building Entrance" tilt="-8.22"/>
     </hotspots>
     <media/>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
