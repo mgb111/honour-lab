@@ -218,7 +218,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-26.84" fov="86.0671" projection="4" tilt="-1.17"/>
+      <start pan="-24.84" fov="86.0671" projection="4" tilt="-9.05"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -229,7 +229,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-21.65" skinid="ht_node" url="{node8}" target="" description="" title="Lab I - View 2" tilt="-9.34"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-25.630" mode="2" tiltsize="10.000" level="1.000" tilt="-19.850" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/10.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -246,7 +250,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-179.25" fov="86.0671" projection="4" tilt="-5.45"/>
+      <start pan="-97.19" fov="86.0671" projection="4" tilt="-1.54"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -257,7 +261,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-96.23" distance="47.7287" skinid="ht_node" url="{node9}" target="" description="" title="Lab I - View 3" tilt="-2.42"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-84.920" mode="2" tiltsize="10.000" level="1.000" tilt="-6.330" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/12.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -274,7 +282,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="12.74" fov="86.0671" projection="4" tilt="-0.9"/>
+      <start pan="-93.65" fov="86.0671" projection="4" tilt="1.42"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -285,7 +293,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-152.77" skinid="ht_node" url="{node10}" target="" description="" title="Lab I - View 4" tilt="-6.58"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-87.730" mode="2" tiltsize="10.000" level="1.000" tilt="-11.700" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/13.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -302,7 +314,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-146" fov="86.0671" projection="4" tilt="1.52"/>
+      <start pan="94.25" fov="86.0671" projection="4" tilt="-5.18"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -313,7 +325,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-267.68" distance="10.9718" skinid="ht_node" url="{node11}" target="" description="" title="Lab I - View 5" tilt="-8"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-257.750" mode="2" tiltsize="10.000" level="1.000" tilt="-7.830" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/14.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -330,7 +346,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-94.57" fov="86.0671" projection="4" tilt="-0.07"/>
+      <start pan="-0.32" fov="86.0671" projection="4" tilt="-6.13"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -341,7 +357,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-180.88" distance="17.3801" skinid="ht_node" url="{node35}" target="" description="" title="PR&amp;D Corridor - View 2" tilt="-3.36"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-357.750" mode="2" tiltsize="10.000" level="1.000" tilt="-11.660" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/15.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -423,7 +443,6 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
-      <hotspot id="Point01" pan="-98.36" distance="32.2848" skinid="ht_node" url="{node22}" target="" description="" title="Lab III" tilt="-6.7"/>
       <hotspot id="Point02" pan="-107.1" distance="6.11572" skinid="ht_node" url="{node168}" target="" description="" title="Lab II - View 4" tilt="-9.06"/>
     </hotspots>
     <media/>
@@ -967,7 +986,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-354.98" skinid="ht_node" url="{node51}" target="" description="" title="Process Safety Lab - View 2" tilt="-9.27"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-16.620" mode="2" tiltsize="10.000" level="1.000" tilt="-10.160" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -996,7 +1019,11 @@
       <hotspot id="Point01" pan="-200.43" skinid="ht_node" url="{node52}" target="" description="" title="Process Safety Lab - View 3" tilt="-7.61"/>
       <hotspot id="Point02" pan="-136.98" skinid="ht_video_file" url="media/Reaction calorimeter.mp4" target="" description="" title="" tilt="22.83"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-20.090" mode="2" tiltsize="10.000" level="1.000" tilt="-10.340" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Process Safety Lab 56.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1024,7 +1051,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-212.84" skinid="ht_node" url="{node53}" target="" description="" title="Process Safety Lab - Powder Safety - View 1" tilt="-3.96"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-17.510" mode="2" tiltsize="10.000" level="1.000" tilt="-8.730" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Process Safety Lab 58.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1053,7 +1084,11 @@
       <hotspot id="Point01" pan="-105.83" skinid="ht_node" url="{node54}" target="" description="" title="Process Safety Lab - Powder Safety - View 2" tilt="-15.37"/>
       <hotspot id="Point02" pan="-20.01" skinid="ht_video_file" url="media/Minimum ignition.mp4" target="" description="" title="" tilt="-1.96"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-10.730" mode="2" tiltsize="10.000" level="1.000" tilt="-2.830" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 60.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1081,7 +1116,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-86.4" skinid="ht_node" url="{node55}" target="" description="" title="Process Safety Lab - Powder Safety - View 3" tilt="-8.09"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-14.540" mode="2" tiltsize="10.000" level="1.000" tilt="-3.980" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 61.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1109,7 +1148,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-195.46" distance="74.2263" skinid="ht_node" url="{node78}" target="" description="" title="PR&amp;D Corridor - View 4" tilt="3.2"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-17.740" mode="2" tiltsize="10.000" level="1.000" tilt="1.250" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 62.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1275,7 +1318,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
-      <hotspot id="Point01" pan="-258.1" distance="97.7205" skinid="ht_node" url="{node69}" target="" description="" title="Hydrogenation Lab" tilt="-2.67"/>
+      <hotspot id="Point01" pan="-228.37" distance="97.7205" skinid="ht_node" url="{node69}" target="" description="" title="Hydrogenation Lab" tilt="-4.91"/>
       <hotspot id="Point02" pan="-160.58" distance="97.7205" skinid="ht_node" url="{node72}" target="" description="" title="KiloLab" tilt="-6.49"/>
       <hotspot id="Point03" pan="-65.14" distance="52.5678" skinid="ht_node" url="{node84}" target="" description="" title="Pilot Lab" tilt="0.46"/>
       <hotspot id="Point04" pan="-265.85" distance="9.69426" skinid="ht_node" url="{node78}" target="" description="" title="PR&amp;D Corridor - View 4" tilt="-3.25"/>
@@ -1308,7 +1351,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-310.41" distance="97.7205" skinid="ht_node" url="{node77}" target="" description="" title="PR&amp;D Corridor - View 5" tilt="0.69"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-355.550" mode="2" tiltsize="10.000" level="1.000" tilt="-6.210" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/hydrogenation-lab.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1336,7 +1383,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-289.24" distance="58.7916" skinid="ht_node" url="{node74}" target="" description="" title="KiloLab - View 2" tilt="-13.85"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-146.640" mode="2" tiltsize="10.000" level="1.000" tilt="-23.230" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Kilolab 77.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1364,7 +1415,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-304.8" skinid="ht_node" url="{node76}" target="" description="" title="KiloLab - View 3" tilt="-9.51"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-157.820" mode="3" tiltsize="10.000" level="1.000" tilt="-19.700" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Kilolab 78.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -1393,7 +1448,11 @@
       <hotspot id="Point01" pan="-143.13" distance="58.7916" skinid="ht_node" url="{node70}" target="" description="" title="KiloLab - Filtration Area" tilt="-0.28"/>
       <hotspot id="Point02" pan="-352.53" skinid="ht_video_file" url="media/Kilolab reactor.mp4" target="" description="" title="" tilt="12.12"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-150.780" mode="2" tiltsize="10.000" level="1.000" tilt="-26.850" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Kilolab 79, 81, 83.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
