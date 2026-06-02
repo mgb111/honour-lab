@@ -1063,8 +1063,8 @@
       <hotspot id="Point01" pan="-354.98" skinid="ht_node" url="{node51}" target="" description="" title="Process Safety Lab - View 2" tilt="-9.27"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-16.620" mode="2" tiltsize="10.000" level="1.000" tilt="-10.160" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/PSL Powder safety.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-9.160" mode="2" tiltsize="10.000" level="1.000" tilt="1.150" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Process Safety Lab 1.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1096,8 +1096,8 @@
       <hotspot id="Point02" pan="-136.98" skinid="ht_video_file" url="media/Reaction calorimeter.mp4" target="" description="" title="" tilt="22.83"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-20.090" mode="2" tiltsize="10.000" level="1.000" tilt="-10.340" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/Process Safety Lab 56.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-5.330" mode="2" tiltsize="10.000" level="1.000" tilt="-9.790" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Process Safety Lab 2.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1128,8 +1128,8 @@
       <hotspot id="Point01" pan="-212.84" skinid="ht_node" url="{node53}" target="" description="" title="Process Safety Lab - Powder Safety - View 1" tilt="-3.96"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-17.510" mode="2" tiltsize="10.000" level="1.000" tilt="-8.730" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/Process Safety Lab 58.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-17.830" mode="2" tiltsize="10.000" level="1.000" tilt="-8.260" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/Process Safety Lab 3 - Powder safety.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1161,8 +1161,8 @@
       <hotspot id="Point02" pan="-20.01" skinid="ht_video_file" url="media/Minimum ignition.mp4" target="" description="" title="" tilt="-1.96"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-10.730" mode="2" tiltsize="10.000" level="1.000" tilt="-2.830" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/PSL Powder safety 60.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-4.930" mode="2" tiltsize="10.000" level="1.000" tilt="-7.840" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 1.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1193,8 +1193,8 @@
       <hotspot id="Point01" pan="-86.4" skinid="ht_node" url="{node55}" target="" description="" title="Process Safety Lab - Powder Safety - View 3" tilt="-8.09"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-14.540" mode="2" tiltsize="10.000" level="1.000" tilt="-3.980" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/PSL Powder safety 61.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-10.350" mode="2" tiltsize="10.000" level="1.000" tilt="-7.820" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 2.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1225,8 +1225,8 @@
       <hotspot id="Point01" pan="-195.46" distance="74.2263" skinid="ht_node" url="{node78}" target="" description="" title="PR&amp;D Corridor - View 4" tilt="3.2"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-17.740" mode="2" tiltsize="10.000" level="1.000" tilt="1.250" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/PSL Powder safety 62.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-5.730" mode="2" tiltsize="10.000" level="1.000" tilt="-3.680" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/PSL Powder safety 3.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
