@@ -24,7 +24,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -53,7 +53,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -88,7 +88,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -117,7 +117,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -145,7 +145,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -174,7 +174,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -205,7 +205,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -237,7 +237,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -269,7 +269,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -301,7 +301,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -333,7 +333,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -365,7 +365,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -397,7 +397,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -429,7 +429,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -461,7 +461,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -493,7 +493,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -525,7 +525,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -557,7 +557,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -588,7 +588,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -621,7 +621,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -653,7 +653,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -685,7 +685,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -718,7 +718,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -750,7 +750,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -783,7 +783,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -815,7 +815,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -847,7 +847,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -879,7 +879,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -911,7 +911,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -943,7 +943,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -975,7 +975,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1007,7 +1007,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1038,7 +1038,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1070,7 +1070,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1103,7 +1103,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1135,7 +1135,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1168,7 +1168,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1200,7 +1200,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1232,7 +1232,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1264,7 +1264,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1296,7 +1296,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1328,7 +1328,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1360,7 +1360,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1392,7 +1392,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1423,7 +1423,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1455,7 +1455,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1487,7 +1487,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1519,7 +1519,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1552,7 +1552,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1584,7 +1584,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1616,7 +1616,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1644,7 +1644,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1672,7 +1672,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1700,7 +1700,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1728,7 +1728,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1756,7 +1756,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1784,7 +1784,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1812,7 +1812,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1840,7 +1840,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1868,7 +1868,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1897,7 +1897,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1925,7 +1925,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1953,7 +1953,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -1982,7 +1982,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2013,7 +2013,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2045,7 +2045,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2077,7 +2077,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2109,7 +2109,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2138,7 +2138,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2166,7 +2166,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2194,7 +2194,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2222,7 +2222,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2250,7 +2250,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2278,7 +2278,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2306,7 +2306,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2334,7 +2334,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2365,7 +2365,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2393,7 +2393,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2421,7 +2421,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2449,7 +2449,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2478,7 +2478,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2506,7 +2506,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2535,7 +2535,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2563,7 +2563,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2591,7 +2591,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2619,7 +2619,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2647,7 +2647,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2675,7 +2675,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2703,7 +2703,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2731,7 +2731,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2761,7 +2761,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2789,7 +2789,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2817,7 +2817,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2848,7 +2848,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2876,7 +2876,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2904,7 +2904,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2932,7 +2932,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2960,7 +2960,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -2988,7 +2988,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3016,7 +3016,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3044,7 +3044,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3072,7 +3072,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3102,7 +3102,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3130,7 +3130,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3158,7 +3158,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3188,7 +3188,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3217,7 +3217,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3247,7 +3247,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3275,7 +3275,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
@@ -3303,7 +3303,7 @@
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" contextvr="1" invertwheel="1" lockedkeyboard="0" dblclickfullscreen="1" hideabout="1" lockedwheel="0" speedwheel="1" contextfullscreen="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0">
       <menulink text="" url=""/>
     </control>
   </panorama>
