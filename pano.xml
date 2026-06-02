@@ -82,7 +82,7 @@
       <hotspot id="Point01" pan="-265.29" distance="25.6506" skinid="ht_node" url="{node39}" target="" description="" title="Reception Area" tilt="-8.39"/>
       <hotspot id="Point02" pan="-341.47" distance="24.667" skinid="ht_node" url="{node4}" target="" description="" title="NMR - Workstation" tilt="-11.26"/>
       <hotspot id="Point03" pan="-86.39" distance="56.4875" skinid="ht_node" url="{node35}" target="" description="" title="PR&amp;D Corridor - View 2" tilt="-1.28"/>
-      <hotspot id="Point04" pan="716.27" skinid="ht_video_file" url="media/Card Access hotspot.mp4" target="" description="" title="" tilt="-4.16"/>
+      <hotspot id="Point04" pan="360" skinid="ht_video_file" url="media/Card Access hotspot.mp4" target="" description="" title="" tilt="-3.95"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-86.380" mode="2" tiltsize="10.000" level="1.000" tilt="-11.330" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
