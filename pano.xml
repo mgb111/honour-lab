@@ -3226,7 +3226,7 @@
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata copyright="" nodeid="node156" comment="" longitude="78.378083" altitude="599.60" datetime="12-03-2026 12:51" description="" source="" author="" title="Stability Zone" heading="0" info="" tags="Main-menu|Rendered|Labs" customnodeid="" latitude="17.666056"/>
+    <userdata copyright="" nodeid="node156" comment="" longitude="78.378083" altitude="599.60" datetime="12-03-2026 12:51" description="" source="" author="" title="Stability Zone" heading="0" info="" tags="Main-menu|Rendered|Labs|AnalyticalRD" customnodeid="" latitude="17.666056"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
