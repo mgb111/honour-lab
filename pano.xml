@@ -378,7 +378,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="99.16" fov="86.0671" projection="4" tilt="-4.48"/>
+      <start pan="15.11" fov="86.0671" projection="4" tilt="-7.16"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -389,7 +389,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-350.11" skinid="ht_node" url="{node20}" target="" description="" title="Lab II - View 2" tilt="-10.77"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-338.330" mode="2" tiltsize="10.000" level="1.000" tilt="-7.320" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -406,7 +410,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="55.13" fov="86.0671" projection="4" tilt="-2.8"/>
+      <start pan="-112.52" fov="86.0671" projection="4" tilt="-2.04"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -417,7 +421,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-105.99" skinid="ht_node" url="{node21}" target="" description="" title="Lab II - View 3" tilt="-12.21"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-14.510" mode="2" tiltsize="10.000" level="1.000" tilt="-8.920" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/2.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -434,7 +442,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-168.53" fov="86.0671" projection="4" tilt="-3.92"/>
+      <start pan="-97.23" fov="86.0671" projection="4" tilt="-0.79"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -445,7 +453,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point02" pan="-107.1" distance="6.11572" skinid="ht_node" url="{node168}" target="" description="" title="Lab II - View 4" tilt="-9.06"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-8.340" mode="2" tiltsize="10.000" level="1.000" tilt="-6.260" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/3.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -462,7 +474,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="149.83" fov="86.0671" projection="4" tilt="0.23"/>
+      <start pan="73.21" fov="86.0671" projection="4" tilt="-13.28"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -473,7 +485,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-275.6" distance="6.11572" skinid="ht_node" url="{node169}" target="" description="" title="Lab II - View 5" tilt="-5.61"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-358.940" mode="2" tiltsize="10.000" level="1.000" tilt="-7.380" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/4.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -490,7 +506,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-134.63" fov="86.0671" projection="4" tilt="-3.53"/>
+      <start pan="142.48" fov="86.0671" projection="4" tilt="-9.92"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -501,7 +517,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-286.18" skinid="ht_node" url="{node170}" target="" description="" title="Lab II - View 6" tilt="-9.3"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-348.990" mode="2" tiltsize="10.000" level="1.000" tilt="-6.360" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/5.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -518,7 +538,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="174.73" fov="86.0671" projection="4" tilt="-5.88"/>
+      <start pan="80.47" fov="86.0671" projection="4" tilt="-5.6"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -529,7 +549,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-235.17" distance="32.2848" skinid="ht_node" url="{node37}" target="" description="" title="PR&amp;D Corridor - View 3" tilt="0.35"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-346.420" mode="2" tiltsize="10.000" level="1.000" tilt="-16.120" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/6.mp3"/>
+      </sound>
+    </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
     <autorotate startloaded="0" nodedelay="0.00" returntohorizon="0.000" nodefilter="" speed="0.020" useanimation="0" enabled="1" noderandom="1" delay="1.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -606,7 +630,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="50.48" fov="86.0671" projection="4" tilt="-6.46"/>
+      <start pan="80.9" fov="86.0671" projection="4" tilt="-7.7"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -634,7 +658,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="143.63" fov="86.0671" projection="4" tilt="-8.11"/>
+      <start pan="45.83" fov="86.0671" projection="4" tilt="-2.09"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -662,7 +686,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-163.99" fov="86.0671" projection="4" tilt="-6.76"/>
+      <start pan="35.04" fov="86.0671" projection="4" tilt="1.68"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -691,7 +715,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="171.27" fov="86.0671" projection="4" tilt="-4.32"/>
+      <start pan="94.55" fov="86.0671" projection="4" tilt="-11.73"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -719,7 +743,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-15.74" fov="86.0671" projection="4" tilt="-4.15"/>
+      <start pan="45.56" fov="86.0671" projection="4" tilt="-10.42"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -748,7 +772,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-57.63" fov="86.0671" projection="4" tilt="-6.91"/>
+      <start pan="-151.66" fov="86.0671" projection="4" tilt="-9.88"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
