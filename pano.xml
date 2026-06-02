@@ -11,7 +11,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-174.32" fov="86.0671" projection="4" tilt="2.53"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node91" comment="" longitude="78.378139" altitude="546.90" datetime="12-03-2026 09:46" description="" source="" author="" title="R&amp;D Building Entrance" heading="0" info="" tags="Exterior|Main-menu" customnodeid="" latitude="17.666694"/>
@@ -39,7 +39,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-9.26" fov="86.0671" projection="4" tilt="-6.84"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node39" comment="" longitude="78.378056" altitude="516.20" datetime="11-03-2026 12:34" description="" source="" author="" title="Reception Area" heading="0" info="" tags="Exterior" customnodeid="" latitude="17.666556"/>
@@ -68,7 +68,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-84.55" fov="86.0671" projection="4" tilt="9.09"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node5" comment="" longitude="78.378250" altitude="544.10" datetime="11-03-2026 10:27" description="" source="" author="" title="PR&amp;D Corridor " heading="0" info="" tags="Corridor|corridors" customnodeid="" latitude="17.666694"/>
@@ -103,7 +103,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="172.68" fov="86.0671" projection="4" tilt="-3.83"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node4" comment="" longitude="78.378361" altitude="572.00" datetime="11-03-2026 10:18" description="" source="" author="" title="NMR - Workstation" heading="0" info="" tags="NMR" customnodeid="" latitude="17.666889"/>
@@ -132,7 +132,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-166.51" fov="86.0671" projection="4" tilt="-4.66"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node3" comment="" longitude="78.378361" altitude="572.00" datetime="11-03-2026 10:14" description="" source="" author="" title="NMR - Sample Preparation Zone" heading="0" info="" tags="NMR" customnodeid="" latitude="17.666889"/>
@@ -160,7 +160,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="0.33" fov="86.0671" projection="4" tilt="-14.3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node1" comment="" longitude="78.378111" altitude="553.50" datetime="11-03-2026 10:09" description="" source="" author="" title="NMR Lab" heading="0" info="" tags="Main-menu|NMR|ProcessRD" customnodeid="" latitude="17.666861"/>
@@ -189,7 +189,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-73.64" fov="86.0671" projection="4" tilt="1.17"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node35" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:23" description="" source="" author="" title="PR&amp;D Corridor - View 2" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.666278"/>
@@ -220,7 +220,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-24.84" fov="86.0671" projection="4" tilt="-9.05"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node6" comment="" longitude="78.378250" altitude="544.10" datetime="11-03-2026 10:45" description="" source="" author="" title="Lab I" heading="0" info="" tags="Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666694"/>
@@ -252,7 +252,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-97.19" fov="86.0671" projection="4" tilt="-1.54"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node8" comment="" longitude="78.378250" altitude="544.10" datetime="11-03-2026 10:54" description="" source="" author="" title="Lab I - View 2" heading="0" info="" tags="Lab-I" customnodeid="" latitude="17.666694"/>
@@ -284,7 +284,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-93.65" fov="86.0671" projection="4" tilt="1.42"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node9" comment="" longitude="78.378139" altitude="560.50" datetime="11-03-2026 10:55" description="" source="" author="" title="Lab I - View 3" heading="0" info="" tags="Lab-I" customnodeid="" latitude="17.666278"/>
@@ -316,7 +316,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="94.25" fov="86.0671" projection="4" tilt="-5.18"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node10" comment="" longitude="78.378139" altitude="560.60" datetime="11-03-2026 10:56" description="" source="" author="" title="Lab I - View 4" heading="0" info="" tags="Lab-I" customnodeid="" latitude="17.666278"/>
@@ -348,7 +348,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-0.32" fov="86.0671" projection="4" tilt="-6.13"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node11" comment="" longitude="78.378083" altitude="561.30" datetime="11-03-2026 10:56" description="" source="" author="" title="Lab I - View 5" heading="0" info="" tags="Lab-I" customnodeid="" latitude="17.666361"/>
@@ -380,7 +380,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="15.11" fov="86.0671" projection="4" tilt="-7.16"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node19" comment="" longitude="78.378194" altitude="560.30" datetime="11-03-2026 11:35" description="" source="" author="" title="Lab II" heading="0" info="" tags="Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666444"/>
@@ -412,7 +412,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-112.52" fov="86.0671" projection="4" tilt="-2.04"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node20" comment="" longitude="78.378194" altitude="560.30" datetime="11-03-2026 11:35" description="" source="" author="" title="Lab II - View 2" heading="0" info="" tags="Lab-II" customnodeid="" latitude="17.666444"/>
@@ -444,7 +444,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-97.23" fov="86.0671" projection="4" tilt="-0.79"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node21" comment="" longitude="78.378194" altitude="560.30" datetime="11-03-2026 11:36" description="" source="" author="" title="Lab II - View 3" heading="0" info="" tags="Lab-II" customnodeid="" latitude="17.666444"/>
@@ -476,7 +476,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="73.21" fov="86.0671" projection="4" tilt="-13.28"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node168" comment="" longitude="78.378194" altitude="560.00" datetime="11-03-2026 11:26" description="" source="" author="" title="Lab II - View 4" heading="0" info="" tags="Lab-II" customnodeid="" latitude="17.666389"/>
@@ -508,7 +508,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="142.48" fov="86.0671" projection="4" tilt="-9.92"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node169" comment="" longitude="78.378194" altitude="560.30" datetime="11-03-2026 11:27" description="" source="" author="" title="Lab II - View 5" heading="0" info="" tags="Lab-II" customnodeid="" latitude="17.666444"/>
@@ -540,7 +540,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="80.47" fov="86.0671" projection="4" tilt="-5.6"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node170" comment="" longitude="78.378194" altitude="560.30" datetime="11-03-2026 11:27" description="" source="" author="" title="Lab II - View 6" heading="0" info="" tags="Lab-II" customnodeid="" latitude="17.666444"/>
@@ -572,7 +572,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-109.96" fov="86.0671" projection="4" tilt="0.61"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node37" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:26" description="" source="" author="" title="PR&amp;D Corridor - View 3" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.666278"/>
@@ -603,7 +603,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="52.85" fov="86.0671" projection="4" tilt="-0.86"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node22" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:01" description="" source="" author="" title="Lab III" heading="0" info="" tags="Lab-III|Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666278"/>
@@ -636,7 +636,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="80.9" fov="86.0671" projection="4" tilt="-7.7"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node23" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:01" description="" source="" author="" title="Lab III - View 2" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -668,7 +668,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="45.83" fov="86.0671" projection="4" tilt="-2.09"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node24" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:02" description="" source="" author="" title="Lab III - View 3" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -700,7 +700,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="35.04" fov="86.0671" projection="4" tilt="1.68"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node25" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:03" description="" source="" author="" title="Lab III - View 4" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -733,7 +733,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="94.55" fov="86.0671" projection="4" tilt="-11.73"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node26" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:04" description="" source="" author="" title="Lab III - View 5" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -765,7 +765,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="45.56" fov="86.0671" projection="4" tilt="-10.42"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node27" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:04" description="" source="" author="" title="Lab III - View 6" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -798,7 +798,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-151.66" fov="86.0671" projection="4" tilt="-9.88"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node29" comment="" longitude="78.377944" altitude="581.10" datetime="11-03-2026 12:05" description="" source="" author="" title="Lab III - View 7" heading="0" info="" tags="Lab-III" customnodeid="" latitude="17.666278"/>
@@ -830,7 +830,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-55.76" fov="86.0671" projection="4" tilt="-0.07"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node42" comment="" longitude="78.378806" altitude="673.30" datetime="11-03-2026 14:24" description="" source="" author="" title="Lab IV" heading="0" info="" tags="Lab-IV|Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666278"/>
@@ -862,7 +862,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="168.92" fov="86.0671" projection="4" tilt="-3.45"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node43" comment="" longitude="78.378444" altitude="579.80" datetime="11-03-2026 14:25" description="" source="" author="" title="Lab IV - View 2" heading="0" info="" tags="Lab-IV" customnodeid="" latitude="17.666194"/>
@@ -894,7 +894,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-26.15" fov="86.0671" projection="4" tilt="-3.11"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node44" comment="" longitude="78.378333" altitude="570.80" datetime="11-03-2026 14:25" description="" source="" author="" title="Lab IV - View 3" heading="0" info="" tags="Lab-IV" customnodeid="" latitude="17.666278"/>
@@ -926,7 +926,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-35.14" fov="86.0671" projection="4" tilt="-5.54"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node45" comment="" longitude="78.378139" altitude="572.30" datetime="11-03-2026 14:25" description="" source="" author="" title="Lab IV - View 4" heading="0" info="" tags="Lab-IV" customnodeid="" latitude="17.666278"/>
@@ -958,7 +958,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-21.66" fov="86.0671" projection="4" tilt="0.99"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node46" comment="" longitude="78.378194" altitude="575.50" datetime="11-03-2026 14:26" description="" source="" author="" title="Lab IV - View 5" heading="0" info="" tags="Lab-IV" customnodeid="" latitude="17.666361"/>
@@ -990,7 +990,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="22.66" fov="86.0671" projection="4" tilt="-6.3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node47" comment="" longitude="78.378028" altitude="575.70" datetime="11-03-2026 14:27" description="" source="" author="" title="Lab IV - View 6" heading="0" info="" tags="Lab-IV" customnodeid="" latitude="17.666389"/>
@@ -1022,7 +1022,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="29.06" fov="86.0671" projection="4" tilt="-5.87"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node78" comment="" longitude="78.378361" altitude="564.30" datetime="11-03-2026 15:55" description="" source="" author="" title="PR&amp;D Corridor - View 4" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665611"/>
@@ -1053,7 +1053,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-168.07" fov="86.0671" projection="4" tilt="-5.06"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node49" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:40" description="" source="" author="" title="Process Safety Lab" heading="0" info="" tags="Main-menu|Process-safety|Labs|ProcessRD" customnodeid="" latitude="17.666278"/>
@@ -1085,7 +1085,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-125.63" fov="86.0671" projection="4" tilt="-5.37"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node51" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:41" description="" source="" author="" title="Process Safety Lab - View 2" heading="0" info="" tags="Process-safety" customnodeid="" latitude="17.666278"/>
@@ -1118,7 +1118,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-147.55" fov="86.0671" projection="4" tilt="-14.76"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node52" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:41" description="" source="" author="" title="Process Safety Lab - View 3" heading="0" info="" tags="Process-safety" customnodeid="" latitude="17.666278"/>
@@ -1150,7 +1150,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-8.6" fov="86.0671" projection="4" tilt="-9.05"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node53" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:42" description="" source="" author="" title="Process Safety Lab - Powder Safety - View 1" heading="0" info="" tags="Process-safety" customnodeid="" latitude="17.666278"/>
@@ -1183,7 +1183,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-2.62" fov="86.0671" projection="4" tilt="-1.08"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node54" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:43" description="" source="" author="" title="Process Safety Lab - Powder Safety - View 2" heading="0" info="" tags="Process-safety" customnodeid="" latitude="17.666278"/>
@@ -1215,7 +1215,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="14.59" fov="86.0671" projection="4" tilt="-4.34"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node55" comment="" longitude="78.378389" altitude="574.20" datetime="11-03-2026 14:43" description="" source="" author="" title="Process Safety Lab - Powder Safety - View 3" heading="0" info="" tags="Process-safety" customnodeid="" latitude="17.666278"/>
@@ -1247,7 +1247,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="156.05" fov="86.0671" projection="4" tilt="-3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node58" comment="" longitude="78.378250" altitude="569.30" datetime="11-03-2026 15:13" description="" source="" author="" title="Lab V" heading="0" info="" tags="lab-V|Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666167"/>
@@ -1279,7 +1279,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="173.36" fov="86.0671" projection="4" tilt="-12.47"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node59" comment="" longitude="78.378250" altitude="569.30" datetime="11-03-2026 15:14" description="" source="" author="" title="Lab V - View 2" heading="0" info="" tags="lab-V" customnodeid="" latitude="17.666167"/>
@@ -1311,7 +1311,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="170.97" fov="86.0671" projection="4" tilt="-12.72"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node66" comment="" longitude="78.377611" altitude="566.40" datetime="11-03-2026 15:21" description="" source="" author="" title="Lab V - View 3" heading="0" info="" tags="lab-V" customnodeid="" latitude="17.666000"/>
@@ -1343,7 +1343,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-4.7" fov="86.0671" projection="4" tilt="-11.25"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node62" comment="" longitude="78.378250" altitude="569.30" datetime="11-03-2026 15:15" description="" source="" author="" title="Lab V - View 4" heading="0" info="" tags="lab-V" customnodeid="" latitude="17.666167"/>
@@ -1375,7 +1375,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-13.38" fov="86.0671" projection="4" tilt="-10.46"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node64" comment="" longitude="78.378250" altitude="569.30" datetime="11-03-2026 15:16" description="" source="" author="" title="Lab V - View 5" heading="0" info="" tags="lab-V" customnodeid="" latitude="17.666167"/>
@@ -1407,7 +1407,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-83.72" fov="86.0671" projection="4" tilt="-2.7"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node77" comment="" longitude="78.378389" altitude="564.00" datetime="11-03-2026 15:49" description="" source="" author="" title="PR&amp;D Corridor - View 5" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665528"/>
@@ -1438,7 +1438,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="8.81" fov="86.0671" projection="4" tilt="-8.68"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node69" comment="" longitude="78.377611" altitude="566.40" datetime="11-03-2026 15:29" description="" source="" author="" title="Hydrogenation Lab" heading="0" info="" tags="hydrogenation|Main-menu|Rendered|Labs|ProcessRD" customnodeid="" latitude="17.666000"/>
@@ -1470,7 +1470,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="137.91" fov="86.0671" projection="4" tilt="-13.11"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node72" comment="" longitude="78.377611" altitude="566.40" datetime="11-03-2026 15:40" description="" source="" author="" title="KiloLab" heading="0" info="" tags="kilo-lab|Main-menu|Labs|ProcessRD" customnodeid="" latitude="17.666000"/>
@@ -1502,7 +1502,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="135.49" fov="86.0671" projection="4" tilt="-6.54"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node74" comment="" longitude="78.378083" altitude="565.10" datetime="11-03-2026 15:41" description="" source="" author="" title="KiloLab - View 2" heading="0" info="" tags="kilo-lab" customnodeid="" latitude="17.666278"/>
@@ -1534,7 +1534,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-0.63" fov="86.0671" projection="4" tilt="-5.84"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node76" comment="" longitude="78.378083" altitude="565.10" datetime="11-03-2026 15:41" description="" source="" author="" title="KiloLab - View 3" heading="0" info="" tags="kilo-lab" customnodeid="" latitude="17.666278"/>
@@ -1567,7 +1567,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="6.18" fov="86.0671" projection="4" tilt="-3.26"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node70" comment="" longitude="78.377611" altitude="566.40" datetime="11-03-2026 15:37" description="" source="" author="" title="KiloLab - Filtration Area" heading="0" info="" tags="kilo-lab" customnodeid="" latitude="17.666000"/>
@@ -1599,7 +1599,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="153.66" fov="86.0671" projection="4" tilt="-8.31"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node71" comment="" longitude="78.377611" altitude="566.40" datetime="11-03-2026 15:38" description="" source="" author="" title="KiloLab - Drying Area" heading="0" info="" tags="kilo-lab" customnodeid="" latitude="17.666000"/>
@@ -1631,7 +1631,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="16.85" fov="86.0671" projection="4" tilt="1.32"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node84" comment="" longitude="78.378361" altitude="552.20" datetime="11-03-2026 16:18" description="" source="" author="" title="Pilot Lab" heading="0" info="" tags="pilot-lab|Main-menu|Labs|Pilotlab" customnodeid="" latitude="17.666000"/>
@@ -1659,7 +1659,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-5.25" fov="86.0671" projection="4" tilt="0.05"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node88" comment="" longitude="78.378611" altitude="539.80" datetime="11-03-2026 16:41" description="" source="" author="" title="Pilot Lab Lower Level - View 1" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.666000"/>
@@ -1687,7 +1687,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="177.9" fov="86.0671" projection="4" tilt="-0.76"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node87" comment="" longitude="78.378389" altitude="547.60" datetime="11-03-2026 16:21" description="" source="" author="" title="Pilot Lab Lower Level - View 2" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.666028"/>
@@ -1715,7 +1715,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="142.56" fov="86.0671" projection="4" tilt="0.32"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node85" comment="" longitude="78.378500" altitude="555.50" datetime="11-03-2026 16:19" description="" source="" author="" title="Pilot Lab Lower Level - View 3" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.665944"/>
@@ -1743,7 +1743,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="177.84" fov="86.0671" projection="4" tilt="-2.35"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node86" comment="" longitude="78.378361" altitude="545.70" datetime="11-03-2026 16:20" description="" source="" author="" title="Pilot Lab Lower Level - View 4" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.665944"/>
@@ -1771,7 +1771,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-91.97" fov="86.0671" projection="4" tilt="-2.76"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node80" comment="" longitude="78.378500" altitude="532.50" datetime="11-03-2026 16:07" description="" source="" author="" title="Pilot Lab Upper Level - View 1" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.665944"/>
@@ -1799,7 +1799,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="2.36" fov="86.0671" projection="4" tilt="-5.11"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node79" comment="" longitude="78.378389" altitude="527.60" datetime="11-03-2026 16:06" description="" source="" author="" title="Pilot Lab Upper Level - View 2" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.665889"/>
@@ -1827,7 +1827,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-101.47" fov="86.0671" projection="4" tilt="-4.73"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node81" comment="" longitude="78.378417" altitude="533.10" datetime="11-03-2026 16:07" description="" source="" author="" title="Pilot Lab Upper Level - View 3" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.666000"/>
@@ -1855,7 +1855,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="88.54" fov="86.0671" projection="4" tilt="-2.29"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node82" comment="" longitude="78.378444" altitude="540.50" datetime="11-03-2026 16:08" description="" source="" author="" title="Pilot Lab Upper Level - View 4" heading="0" info="" tags="pilot-lab|Pilotlab" customnodeid="" latitude="17.666000"/>
@@ -1883,7 +1883,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-153.56" fov="86.0671" projection="4" tilt="-1.44"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node162" comment="" longitude="78.378056" altitude="595.30" datetime="12-03-2026 13:05" description="" source="" author="" title="Office Corridor " heading="0" info="" tags="Corridor|corridors" customnodeid="" latitude="17.665806"/>
@@ -1912,7 +1912,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="8.55" fov="86.0671" projection="4" tilt="-19.04"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node167" comment="" longitude="78.378500" altitude="524.50" datetime="12-03-2026 14:58" description="" source="" author="" title="Conference Room" heading="0" info="" tags="conference-room|admin" customnodeid="" latitude="17.666361"/>
@@ -1940,7 +1940,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-160.26" fov="86.0671" projection="4" tilt="-4.23"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node165" comment="" longitude="78.378611" altitude="536.10" datetime="12-03-2026 14:02" description="" source="" author="" title="Workstation" heading="0" info="" tags="workstation|admin" customnodeid="" latitude="17.666444"/>
@@ -1968,7 +1968,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-10.44" fov="86.0671" projection="4" tilt="0.62"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node163" comment="" longitude="78.378056" altitude="595.30" datetime="12-03-2026 13:06" description="" source="" author="" title="Analytical R&amp;D Entrance" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665806"/>
@@ -1997,7 +1997,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-19.4" fov="86.0671" projection="4" tilt="-5.06"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node113" comment="" longitude="78.378306" altitude="521.30" datetime="12-03-2026 11:21" description="" source="" author="" title="Analytical R&amp;D Corridor" heading="0" info="" tags="Corridor|corridors" customnodeid="" latitude="17.666111"/>
@@ -2028,7 +2028,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-22.56" fov="86.0671" projection="4" tilt="-8.39"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node93" comment="" longitude="78.378222" altitude="546.30" datetime="12-03-2026 10:40" description="" source="" author="" title="Mass Spectroscopy" heading="0" info="" tags="Main-menu|mass-spectroscopy|Labs|AnalyticalRD" customnodeid="" latitude="17.666639"/>
@@ -2060,7 +2060,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="61.14" fov="86.0671" projection="4" tilt="-19.5"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node94" comment="" longitude="78.378222" altitude="546.30" datetime="12-03-2026 10:40" description="" source="" author="" title="Mass Spectroscopy - View 2" heading="0" info="" tags="mass-spectroscopy" customnodeid="" latitude="17.666639"/>
@@ -2092,7 +2092,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="140.91" fov="86.0671" projection="4" tilt="-25.84"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node95" comment="" longitude="78.378222" altitude="546.30" datetime="12-03-2026 10:41" description="" source="" author="" title="Mass Spectroscopy - View 3" heading="0" info="" tags="mass-spectroscopy" customnodeid="" latitude="17.666639"/>
@@ -2120,7 +2120,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-96.72" fov="86.0671" projection="4" tilt="-7.7"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node98" comment="" longitude="78.378306" altitude="519.80" datetime="12-03-2026 10:48" description="" source="" author="" title="Sample Preparation Zone (Milli-Q)" heading="0" info="" tags="mass-spectroscopy" customnodeid="" latitude="17.666417"/>
@@ -2149,7 +2149,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-68.06" fov="86.0671" projection="4" tilt="-6.56"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node110" comment="" longitude="78.378111" altitude="520.10" datetime="12-03-2026 11:16" description="" source="" author="" title="Liquid Chromatography" heading="0" info="" tags="liquid-chromatography|Main-menu|Labs|AnalyticalRD" customnodeid="" latitude="17.666361"/>
@@ -2177,7 +2177,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-94.53" fov="86.0671" projection="4" tilt="-3.25"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node109" comment="" longitude="78.378111" altitude="520.10" datetime="12-03-2026 11:15" description="" source="" author="" title="Liquid Chromatography - View 2" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.666361"/>
@@ -2205,7 +2205,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-51.35" fov="86.0671" projection="4" tilt="-10.74"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node108" comment="" longitude="78.378111" altitude="520.10" datetime="12-03-2026 11:15" description="" source="" author="" title="Liquid Chromatography - View 3" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.666361"/>
@@ -2233,7 +2233,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="6.14" fov="86.0671" projection="4" tilt="-10.24"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node107" comment="" longitude="78.378111" altitude="520.10" datetime="12-03-2026 11:14" description="" source="" author="" title="Liquid Chromatography - View 4" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.666361"/>
@@ -2261,7 +2261,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="54.13" fov="86.0671" projection="4" tilt="-11.16"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node106" comment="" longitude="78.378139" altitude="519.90" datetime="12-03-2026 11:14" description="" source="" author="" title="Liquid Chromatography - View 5" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.666250"/>
@@ -2289,7 +2289,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="3.31" fov="86.0671" projection="4" tilt="-20.4"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node105" comment="" longitude="78.378222" altitude="519.90" datetime="12-03-2026 11:13" description="" source="" author="" title="Liquid Chromatography - View 6" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.666444"/>
@@ -2317,7 +2317,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-115.56" fov="86.0671" projection="4" tilt="-14.82"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node140" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:25" description="" source="" author="" title="Liquid Chromatography - Sample Preparation Zone" heading="0" info="" tags="liquid-chromatography" customnodeid="" latitude="17.667639"/>
@@ -2345,7 +2345,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="0.44" fov="86.0671" projection="4" tilt="4.25"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node115" comment="" longitude="78.378306" altitude="521.30" datetime="12-03-2026 11:22" description="" source="" author="" title="Analytical R&amp;D Corridor - View 2" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.666111"/>
@@ -2376,7 +2376,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="158.63" fov="86.0671" projection="4" tilt="-4.88"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node102" comment="" longitude="78.378222" altitude="519.90" datetime="12-03-2026 11:03" description="" source="" author="" title="Preparative Chromatography" heading="0" info="" tags="Main-menu|Rendered|Labs|AnalyticalRD" customnodeid="" latitude="17.666444"/>
@@ -2404,7 +2404,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="3.07" fov="86.0671" projection="4" tilt="-9.81"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node104" comment="" longitude="78.378222" altitude="519.90" datetime="12-03-2026 11:03" description="" source="" author="" title="Preparative Chromatography - View 2" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666444"/>
@@ -2432,7 +2432,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-3.15" fov="86.0671" projection="4" tilt="-17.06"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node101" comment="" longitude="78.378222" altitude="519.90" datetime="12-03-2026 11:02" description="" source="" author="" title="Preparative Chromatography - View 3" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666444"/>
@@ -2460,7 +2460,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-38.66" fov="86.0671" projection="4" tilt="-23.61"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node100" comment="" longitude="78.378222" altitude="519.90" datetime="12-03-2026 11:02" description="" source="" author="" title="Preparative Chromatography - View 4" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666444"/>
@@ -2489,7 +2489,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="67.86" fov="86.0671" projection="4" tilt="-19.78"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node96" comment="" longitude="78.378222" altitude="524.40" datetime="12-03-2026 10:42" description="" source="" author="" title="Preparative Chromatography - Sample Preparation Zone" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666361"/>
@@ -2517,7 +2517,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-19.17" fov="86.0671" projection="4" tilt="-13.27"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node124" comment="" longitude="78.378222" altitude="521.50" datetime="12-03-2026 11:52" description="" source="" author="" title="Wet Chemistry" heading="0" info="" tags="Main-menu|Rendered|Labs|AnalyticalRD" customnodeid="" latitude="17.665889"/>
@@ -2546,7 +2546,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-158.65" fov="86.0671" projection="4" tilt="-0.05"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node125" comment="" longitude="78.378222" altitude="521.50" datetime="12-03-2026 11:53" description="" source="" author="" title="Wet Chemistry - View 2" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.665889"/>
@@ -2574,7 +2574,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-121.83" fov="86.0671" projection="4" tilt="-14.26"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node135" comment="" longitude="78.377806" altitude="516.80" datetime="12-03-2026 12:02" description="" source="" author="" title="Wet Chemistry - View 3" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666083"/>
@@ -2602,7 +2602,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-114.64" fov="86.0671" projection="4" tilt="-13.94"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node127" comment="" longitude="78.378222" altitude="521.50" datetime="12-03-2026 11:54" description="" source="" author="" title="Wet Chemistry - View 4" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.665889"/>
@@ -2630,7 +2630,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-121.87" fov="86.0671" projection="4" tilt="-4.01"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node128" comment="" longitude="78.378222" altitude="521.50" datetime="12-03-2026 11:55" description="" source="" author="" title="Wet Chemistry - View 5" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.665889"/>
@@ -2658,7 +2658,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-109.39" fov="86.0671" projection="4" tilt="-2.73"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node133" comment="" longitude="78.378556" altitude="518.00" datetime="12-03-2026 11:59" description="" source="" author="" title="Wet Chemistry - Hot Zone - View 1" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666194"/>
@@ -2686,7 +2686,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="97.32" fov="86.0671" projection="4" tilt="-7"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node134" comment="" longitude="78.378111" altitude="517.10" datetime="12-03-2026 12:00" description="" source="" author="" title="Wet Chemistry - Hot Zone - View 2" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666167"/>
@@ -2714,7 +2714,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-81.3" fov="86.0671" projection="4" tilt="-6.26"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node130" comment="" longitude="78.378444" altitude="514.10" datetime="12-03-2026 11:56" description="" source="" author="" title="Wet Chemistry - Sample Preparation Zone" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666361"/>
@@ -2742,7 +2742,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-23.13" fov="86.0671" projection="4" tilt="-2.57"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node149" comment="" longitude="78.378167" altitude="617.30" datetime="12-03-2026 12:37" description="" source="" author="" title="Analytical R&amp;D Corridor - View 3" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.666167"/>
@@ -2772,7 +2772,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-16.05" fov="86.0671" projection="4" tilt="-9.08"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node148" comment="" longitude="78.372306" altitude="756.80" datetime="12-03-2026 12:33" description="" source="" author="" title="ICPMS" heading="0" info="" tags="Main-menu|Rendered|Labs|AnalyticalRD" customnodeid="" latitude="17.669806"/>
@@ -2800,7 +2800,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-144.05" fov="86.0671" projection="4" tilt="0.66"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node147" comment="" longitude="78.372306" altitude="756.80" datetime="12-03-2026 12:32" description="" source="" author="" title="ICPMS - Sample Preparation" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.669806"/>
@@ -2828,7 +2828,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="177.39" fov="86.0671" projection="4" tilt="1.68"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node150" comment="" longitude="78.378083" altitude="615.20" datetime="12-03-2026 12:38" description="" source="" author="" title="Analytical R&amp;D Corridor - View 4" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665861"/>
@@ -2859,7 +2859,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="112.91" fov="86.0671" projection="4" tilt="2.95"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node152" comment="" longitude="78.378083" altitude="615.40" datetime="12-03-2026 12:42" description="" source="" author="" title="Thermal Analysis" heading="0" info="" tags="Main-menu|Rendered|AnalyticalRD" customnodeid="" latitude="17.665889"/>
@@ -2887,7 +2887,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="111.74" fov="86.0671" projection="4" tilt="0.41"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node151" comment="" longitude="78.378083" altitude="615.40" datetime="12-03-2026 12:41" description="" source="" author="" title="Thermal Analysis and Spectroscopy - View 2" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.665889"/>
@@ -2915,7 +2915,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="34.31" fov="86.0671" projection="4" tilt="-5.19"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node145" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:29" description="" source="" author="" title="Gas Chromatography" heading="0" info="" tags="Main-menu|Rendered|Labs|AnalyticalRD" customnodeid="" latitude="17.667639"/>
@@ -2943,7 +2943,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-53.03" fov="86.0671" projection="4" tilt="-14.37"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node143" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:28" description="" source="" author="" title="Gas Chromatography - View 2" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.667639"/>
@@ -2971,7 +2971,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="112.45" fov="86.0671" projection="4" tilt="-20.37"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node144" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:28" description="" source="" author="" title="Gas Chromatography - View 3" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.667639"/>
@@ -2999,7 +2999,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-173.29" fov="86.0671" projection="4" tilt="-3.12"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node142" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:28" description="" source="" author="" title="Gas Chromatography - View 4" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.667639"/>
@@ -3027,7 +3027,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-10.92" fov="86.0671" projection="4" tilt="-4.08"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node141" comment="" longitude="78.376056" altitude="787.80" datetime="12-03-2026 12:27" description="" source="" author="" title="Gas Chromatography - View 5" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.667639"/>
@@ -3055,7 +3055,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="119.34" fov="86.0671" projection="4" tilt="-12.54"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node138" comment="" longitude="78.377861" altitude="555.30" datetime="12-03-2026 12:21" description="" source="" author="" title="Gas Chromatography - Sample Preparation Zone" heading="0" info="" tags="Rendered" customnodeid="" latitude="17.666167"/>
@@ -3083,7 +3083,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="162.03" fov="86.0671" projection="4" tilt="3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node123" comment="" longitude="78.378306" altitude="521.00" datetime="12-03-2026 11:26" description="" source="" author="" title="Analytical R&amp;D Corridor - View 5" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.666000"/>
@@ -3113,7 +3113,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-134.18" fov="86.0671" projection="4" tilt="-9.5"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node154" comment="" longitude="78.378083" altitude="606.30" datetime="12-03-2026 12:48" description="" source="" author="" title="Server Room - Workstation" heading="0" info="" tags="Rendered|Servers" customnodeid="" latitude="17.666056"/>
@@ -3141,7 +3141,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-162.56" fov="86.0671" projection="4" tilt="0.96"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node155" comment="" longitude="78.378000" altitude="600.60" datetime="12-03-2026 12:49" description="" source="" author="" title="Server Room" heading="0" info="" tags="Main-menu|Rendered|ServerandArchives|Servers" customnodeid="" latitude="17.666000"/>
@@ -3169,7 +3169,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="10.44" fov="86.0671" projection="4" tilt="1.72"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node157" comment="" longitude="78.378083" altitude="597.40" datetime="12-03-2026 12:54" description="" source="" author="" title="Analytical R&amp;D Corridor - View 6" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665861"/>
@@ -3199,7 +3199,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-59.74" fov="86.0671" projection="4" tilt="-6.45"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node156" comment="" longitude="78.378083" altitude="599.60" datetime="12-03-2026 12:51" description="" source="" author="" title="Stability Zone" heading="0" info="" tags="Main-menu|Rendered|Labs" customnodeid="" latitude="17.666056"/>
@@ -3228,7 +3228,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-49.42" fov="86.0671" projection="4" tilt="0.51"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node160" comment="" longitude="78.378056" altitude="595.70" datetime="12-03-2026 13:00" description="" source="" author="" title="Analytical R&amp;D Corridor - View 7" heading="0" info="" tags="Corridor" customnodeid="" latitude="17.665806"/>
@@ -3258,7 +3258,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="63.06" fov="86.0671" projection="4" tilt="-5.36"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node159" comment="" longitude="78.378000" altitude="593.30" datetime="12-03-2026 12:58" description="" source="" author="" title="Document Archival Zone - View 2" heading="0" info="" tags="Rendered|Archives" customnodeid="" latitude="17.665889"/>
@@ -3286,7 +3286,7 @@
     <view pannorth="0" fovmode="3">
       <start pan="-173.85" fov="86.0671" projection="4" tilt="1.79"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fov="40" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
     </view>
     <userdata copyright="" nodeid="node158" comment="" longitude="78.377944" altitude="595.20" datetime="12-03-2026 12:57" description="" source="" author="" title="Document Archival Zone" heading="0" info="" tags="Main-menu|Rendered|ServerandArchives|Archives" customnodeid="" latitude="17.665944"/>
