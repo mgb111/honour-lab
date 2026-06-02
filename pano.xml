@@ -78,7 +78,7 @@
       <hotspot id="Point01" pan="-265.29" distance="25.6506" skinid="ht_node" url="{node39}" target="" description="" title="Reception Area" tilt="-8.39"/>
       <hotspot id="Point02" pan="-341.47" distance="24.667" skinid="ht_node" url="{node4}" target="" description="" title="NMR - Workstation" tilt="-11.26"/>
       <hotspot id="Point03" pan="-86.39" distance="56.4875" skinid="ht_node" url="{node35}" target="" description="" title="PR&amp;D Corridor - View 2" tilt="-1.28"/>
-      <hotspot id="Point04" pan="-0.37" skinid="ht_video_file" url="media/Card access NMR.mp4" target="" description="" title="" tilt="-5.7"/>
+      <hotspot id="Point04" pan="-0.37" skinid="ht_video_file" url="media/Card Access hotspot.mp4" target="" description="" title="" tilt="-5.7"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-86.380" mode="2" tiltsize="10.000" level="1.000" tilt="-11.330" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -111,7 +111,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point02" pan="-131.85" skinid="ht_node" url="{node3}" target="" description="" title="NMR - Sample Preparation Zone" tilt="-1.18"/>
-      <hotspot id="Point01" pan="-65.69" skinid="ht_video_file" url="media/No touch exit.mp4" target="" description="" title="" tilt="-5.28"/>
+      <hotspot id="Point01" pan="-65.69" skinid="ht_video_file" url="media/No Touch exit hotspot.mp4" target="" description="" title="" tilt="-5.28"/>
     </hotspots>
     <media/>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -611,7 +611,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-303.32" skinid="ht_node" url="{node23}" target="" description="" title="Lab III - View 2" tilt="-11.06"/>
-      <hotspot id="Point02" pan="-154.65" skinid="ht_video_file" url="media/Mya4.mp4" target="" description="" title="" tilt="15.29"/>
+      <hotspot id="Point02" pan="-154.65" skinid="ht_video_file" url="media/Mya4 hotspot.mp4" target="" description="" title="" tilt="15.29"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-344.820" mode="2" tiltsize="10.000" level="1.000" tilt="-1.360" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -708,7 +708,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-318.42" skinid="ht_node" url="{node26}" target="" description="" title="Lab III - View 5" tilt="-11.08"/>
-      <hotspot id="Point02" pan="-153.59" skinid="ht_video_file" url="media/Double jacketed reactor.mp4" target="" description="" title="" tilt="15.32"/>
+      <hotspot id="Point02" pan="-153.59" skinid="ht_video_file" url="media/Double jacketed reactor hotspot.mp4" target="" description="" title="" tilt="15.32"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.440" mode="2" tiltsize="10.000" level="1.000" tilt="-13.750" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -773,7 +773,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-313.37" skinid="ht_node" url="{node29}" target="" description="" title="Lab III - View 7" tilt="-9.2"/>
-      <hotspot id="Point02" pan="-7.87" skinid="ht_video_file" url="media/Rotavap.mp4" target="" description="" title="" tilt="-2.81"/>
+      <hotspot id="Point02" pan="-7.87" skinid="ht_video_file" url="media/Rotavap hotspot.mp4" target="" description="" title="" tilt="-2.81"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-346.290" mode="2" tiltsize="10.000" level="1.000" tilt="-6.810" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -1093,7 +1093,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-200.43" skinid="ht_node" url="{node52}" target="" description="" title="Process Safety Lab - View 3" tilt="-7.61"/>
-      <hotspot id="Point02" pan="-136.98" skinid="ht_video_file" url="media/Reaction calorimeter.mp4" target="" description="" title="" tilt="22.83"/>
+      <hotspot id="Point02" pan="-136.98" skinid="ht_video_file" url="media/Reaction calorimeter hotspot.mp4" target="" description="" title="" tilt="22.83"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-5.330" mode="2" tiltsize="10.000" level="1.000" tilt="-9.790" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -1158,7 +1158,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-105.83" skinid="ht_node" url="{node54}" target="" description="" title="Process Safety Lab - Powder Safety - View 2" tilt="-15.37"/>
-      <hotspot id="Point02" pan="-20.01" skinid="ht_video_file" url="media/Minimum ignition.mp4" target="" description="" title="" tilt="-1.96"/>
+      <hotspot id="Point02" pan="-20.01" skinid="ht_video_file" url="media/Minimum Ignition energy hotspot.mp4" target="" description="" title="" tilt="-1.96"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-4.930" mode="2" tiltsize="10.000" level="1.000" tilt="-7.840" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -1542,7 +1542,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-143.13" distance="58.7916" skinid="ht_node" url="{node70}" target="" description="" title="KiloLab - Filtration Area" tilt="-0.28"/>
-      <hotspot id="Point02" pan="-352.53" skinid="ht_video_file" url="media/Kilolab reactor.mp4" target="" description="" title="" tilt="12.12"/>
+      <hotspot id="Point02" pan="-352.53" skinid="ht_video_file" url="media/Kilolab Reactor hotspot.mp4" target="" description="" title="" tilt="12.12"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-4.930" mode="2" tiltsize="10.000" level="1.000" tilt="-10.750" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -2529,7 +2529,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-93.66" skinid="ht_node" url="{node125}" target="" description="" title="Wet Chemistry - View 2" tilt="-16.09"/>
-      <hotspot id="Point02" pan="-358.97" skinid="ht_video_file" url="media/Coulometer.mp4" target="" description="" title="" tilt="31.44"/>
+      <hotspot id="Point02" pan="-358.97" skinid="ht_video_file" url="media/Coulometer hotspot.mp4" target="" description="" title="" tilt="31.44"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-68.090" mode="2" tiltsize="10.000" level="1.000" tilt="-21.720" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
@@ -3267,7 +3267,7 @@
       <label background="1" backgroundcolor="0xffffff" width="180" height="20" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" enabled="1" wordwrap="1" textalpha="1" borderalpha="1" border="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot id="Point01" pan="-195.85" distance="27.9455" skinid="ht_node" url="{node160}" target="" description="" title="Analytical R&amp;D Corridor - View 7" tilt="-13.07"/>
-      <hotspot id="Point02" pan="-287.55" skinid="ht_video_file" url="media/Nitrogen sealing.mp4" target="" description="" title="" tilt="-2.89"/>
+      <hotspot id="Point02" pan="-287.55" skinid="ht_video_file" url="media/Nitrogen sealing hotspot.mp4" target="" description="" title="" tilt="-2.89"/>
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-176.940" mode="2" tiltsize="10.000" level="1.000" tilt="-9.300" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
