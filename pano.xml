@@ -390,7 +390,7 @@
       <hotspot id="Point01" pan="-350.11" skinid="ht_node" url="{node20}" target="" description="" title="Lab II - View 2" tilt="-10.77"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-338.330" mode="2" tiltsize="10.000" level="1.000" tilt="-7.320" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-340.720" mode="2" tiltsize="10.000" level="1.000" tilt="-6.520" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/1.mp3"/>
       </sound>
     </media>
@@ -422,7 +422,7 @@
       <hotspot id="Point01" pan="-105.99" skinid="ht_node" url="{node21}" target="" description="" title="Lab II - View 3" tilt="-12.21"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-14.510" mode="2" tiltsize="10.000" level="1.000" tilt="-8.920" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-11.300" mode="2" tiltsize="10.000" level="1.000" tilt="-13.420" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/2.mp3"/>
       </sound>
     </media>
@@ -454,7 +454,7 @@
       <hotspot id="Point02" pan="-107.1" distance="6.11572" skinid="ht_node" url="{node168}" target="" description="" title="Lab II - View 4" tilt="-9.06"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-8.340" mode="2" tiltsize="10.000" level="1.000" tilt="-6.260" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-3.990" mode="2" tiltsize="10.000" level="1.000" tilt="-13.050" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/3.mp3"/>
       </sound>
     </media>
@@ -486,7 +486,7 @@
       <hotspot id="Point01" pan="-275.6" distance="6.11572" skinid="ht_node" url="{node169}" target="" description="" title="Lab II - View 5" tilt="-5.61"/>
     </hotspots>
     <media>
-      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-358.940" mode="2" tiltsize="10.000" level="1.000" tilt="-7.380" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-1.640" mode="2" tiltsize="10.000" level="1.000" tilt="-14.400" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/4.mp3"/>
       </sound>
     </media>
@@ -518,7 +518,7 @@
       <hotspot id="Point01" pan="-286.18" skinid="ht_node" url="{node170}" target="" description="" title="Lab II - View 6" tilt="-9.3"/>
     </hotspots>
     <media>
-      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-348.990" mode="2" tiltsize="10.000" level="1.000" tilt="-6.360" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-347.340" mode="2" tiltsize="10.000" level="1.000" tilt="-8.680" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/5.mp3"/>
       </sound>
     </media>
@@ -550,7 +550,7 @@
       <hotspot id="Point01" pan="-235.17" distance="32.2848" skinid="ht_node" url="{node37}" target="" description="" title="PR&amp;D Corridor - View 3" tilt="0.35"/>
     </hotspots>
     <media>
-      <sound id="Element02" field="90.000" startmutedmobile="0" pan="-346.420" mode="2" tiltsize="10.000" level="1.000" tilt="-16.120" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-350.820" mode="2" tiltsize="10.000" level="1.000" tilt="-11.280" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/6.mp3"/>
       </sound>
     </media>
