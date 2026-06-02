@@ -506,7 +506,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="142.48" fov="86.0671" projection="4" tilt="-9.92"/>
+      <start pan="60.01" fov="86.0671" projection="4" tilt="-11.23"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -601,7 +601,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="52.85" fov="86.0671" projection="4" tilt="-0.86"/>
+      <start pan="-153.35" fov="86.0671" projection="4" tilt="-1.33"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -615,7 +615,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-344.820" mode="2" tiltsize="10.000" level="1.000" tilt="-1.360" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/1.mp3"/>
+        <source url="media/lab3-1.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -647,7 +647,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-343.360" mode="2" tiltsize="10.000" level="1.000" tilt="-7.760" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/2.mp3"/>
+        <source url="media/lab3-2.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -679,7 +679,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-342.920" mode="2" tiltsize="10.000" level="1.000" tilt="-12.510" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/3.mp3"/>
+        <source url="media/lab3-3.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -698,7 +698,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="35.04" fov="86.0671" projection="4" tilt="1.68"/>
+      <start pan="-175.88" fov="86.0671" projection="4" tilt="-5.77"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -712,7 +712,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.440" mode="2" tiltsize="10.000" level="1.000" tilt="-13.750" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/4.mp3"/>
+        <source url="media/lab3-4.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -731,7 +731,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="94.55" fov="86.0671" projection="4" tilt="-11.73"/>
+      <start pan="137.81" fov="86.0671" projection="4" tilt="-9.82"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -744,7 +744,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-355.740" mode="2" tiltsize="10.000" level="1.000" tilt="1.530" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/5.mp3"/>
+        <source url="media/lab3-5.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -777,7 +777,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-346.290" mode="2" tiltsize="10.000" level="1.000" tilt="-6.810" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/6.mp3"/>
+        <source url="media/lab3-6.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -796,7 +796,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-151.66" fov="86.0671" projection="4" tilt="-9.88"/>
+      <start pan="26.26" fov="86.0671" projection="4" tilt="-11.81"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -809,7 +809,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-345.350" mode="2" tiltsize="10.000" level="1.000" tilt="-1.560" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/7.mp3"/>
+        <source url="media/lab3-7.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -828,7 +828,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-55.76" fov="86.0671" projection="4" tilt="-0.07"/>
+      <start pan="-105.01" fov="86.0671" projection="4" tilt="-5.92"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -840,8 +840,8 @@
       <hotspot id="Point01" pan="-137.94" distance="39.4752" skinid="ht_node" url="{node43}" target="" description="" title="Lab IV - View 2" tilt="-4.13"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-0.040" mode="2" tiltsize="10.000" level="1.000" tilt="12.670" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/1.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-0.190" mode="2" tiltsize="10.000" level="1.000" tilt="12.660" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/lab4-1.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -860,7 +860,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="168.92" fov="86.0671" projection="4" tilt="-3.45"/>
+      <start pan="67.31" fov="86.0671" projection="4" tilt="-11.72"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -873,7 +873,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.290" mode="2" tiltsize="10.000" level="1.000" tilt="-0.440" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/2.mp3"/>
+        <source url="media/lab4-2.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -892,7 +892,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-26.15" fov="86.0671" projection="4" tilt="-3.11"/>
+      <start pan="-48.07" fov="86.0671" projection="4" tilt="-2.39"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -905,7 +905,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-357.500" mode="2" tiltsize="10.000" level="1.000" tilt="2.340" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/3.mp3"/>
+        <source url="media/lab4-3.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -924,7 +924,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-35.14" fov="86.0671" projection="4" tilt="-5.54"/>
+      <start pan="-74.04" fov="86.0671" projection="4" tilt="-4.99"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -936,8 +936,8 @@
       <hotspot id="Point01" pan="-114.19" distance="10.9149" skinid="ht_node" url="{node46}" target="" description="" title="Lab IV - View 5" tilt="-10.25"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-359.140" mode="2" tiltsize="10.000" level="1.000" tilt="-8.750" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/4.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-359.150" mode="2" tiltsize="10.000" level="1.000" tilt="-8.580" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/lab4-4.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -956,7 +956,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-21.66" fov="86.0671" projection="4" tilt="0.99"/>
+      <start pan="-146.24" fov="86.0671" projection="4" tilt="-4.79"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -968,8 +968,8 @@
       <hotspot id="Point01" pan="-193.96" distance="17.8613" skinid="ht_node" url="{node47}" target="" description="" title="Lab IV - View 6" tilt="-9.15"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.170" mode="2" tiltsize="10.000" level="1.000" tilt="-5.790" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/5.mp3"/>
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.160" mode="2" tiltsize="10.000" level="1.000" tilt="-5.610" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/lab4-5.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -988,7 +988,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="22.66" fov="86.0671" projection="4" tilt="-6.3"/>
+      <start pan="-76.48" fov="86.0671" projection="4" tilt="-2.45"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1001,7 +1001,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-349.320" mode="2" tiltsize="10.000" level="1.000" tilt="-2.750" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/6.mp3"/>
+        <source url="media/lab4-6.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1051,7 +1051,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-168.07" fov="86.0671" projection="4" tilt="-5.06"/>
+      <start pan="70.97" fov="86.0671" projection="4" tilt="-5.08"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1063,7 +1063,7 @@
       <hotspot id="Point01" pan="-354.98" skinid="ht_node" url="{node51}" target="" description="" title="Process Safety Lab - View 2" tilt="-9.27"/>
     </hotspots>
     <media>
-      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-9.160" mode="2" tiltsize="10.000" level="1.000" tilt="1.150" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
+      <sound id="Element01" field="90.000" startmutedmobile="0" pan="-165.400" mode="2" tiltsize="10.000" level="1.000" tilt="-6.610" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
         <source url="media/Process Safety Lab 1.mp3"/>
       </sound>
     </media>
@@ -1083,7 +1083,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-125.63" fov="86.0671" projection="4" tilt="-5.37"/>
+      <start pan="146.18" fov="86.0671" projection="4" tilt="-5.97"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1116,7 +1116,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-147.55" fov="86.0671" projection="4" tilt="-14.76"/>
+      <start pan="123.28" fov="86.0671" projection="4" tilt="-3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1148,7 +1148,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-8.6" fov="86.0671" projection="4" tilt="-9.05"/>
+      <start pan="-42.27" fov="86.0671" projection="4" tilt="-1.48"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1181,7 +1181,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="-2.62" fov="86.0671" projection="4" tilt="-1.08"/>
+      <start pan="-40.84" fov="86.0671" projection="4" tilt="-1.56"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1213,7 +1213,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="3">
-      <start pan="14.59" fov="86.0671" projection="4" tilt="-4.34"/>
+      <start pan="33.39" fov="86.0671" projection="4" tilt="-6.3"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fov="50" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="90" scaletofit="1" tilt="90" fovfisheye="360"/>
@@ -1258,7 +1258,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-1.320" mode="2" tiltsize="10.000" level="1.000" tilt="-8.390" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/1.mp3"/>
+        <source url="media/lab5-1.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1290,7 +1290,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-5.930" mode="2" tiltsize="10.000" level="1.000" tilt="-9.980" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/2.mp3"/>
+        <source url="media/lab5-2.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1322,7 +1322,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-351.380" mode="2" tiltsize="10.000" level="1.000" tilt="-4.710" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/3.mp3"/>
+        <source url="media/lab5-3.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1354,7 +1354,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-3.520" mode="2" tiltsize="10.000" level="1.000" tilt="-9.970" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/4.mp3"/>
+        <source url="media/lab5-4.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
@@ -1386,7 +1386,7 @@
     </hotspots>
     <media>
       <sound id="Element01" field="90.000" startmutedmobile="0" pan="-346.520" mode="2" tiltsize="10.000" level="1.000" tilt="-10.490" loop="1" ambientlevel="0.000" nodechangekeep="0" pansize="10.000">
-        <source url="media/5.mp3"/>
+        <source url="media/lab5-5.mp3"/>
       </sound>
     </media>
     <transition zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20" zoomafterinfov="90"/>
