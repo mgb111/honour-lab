@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.16/18125
 // Filename: trial.ggsk
-// Generated 2026-06-18T15:16:21
+// Generated 2026-06-18T15:20:37
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -10048,7 +10048,7 @@ function pano2vrSkin(player,base) {
 		els=me._config_button__img=document.createElement('img');
 		els.className='ggskin ggskin_config_button';
 		hs='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QHTaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1LjYuMCI+CiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMj'+
-			'YtMDYtMThUMTU6MTY6MjErMDU6MzAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI2LTA2LTE4VDE1OjE2OjIxKzA1OjMwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjE2Ii8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
+			'YtMDYtMThUMTU6MjA6MzcrMDU6MzAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI2LTA2LTE4VDE1OjIwOjM3KzA1OjMwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjE2Ii8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
 			'CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4'+
 			'iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASigUetABj3oo7UlACiikooAXtSUUUAf/2Q==';
 		els.setAttribute('src',hs);
@@ -13921,18 +13921,18 @@ function pano2vrSkin(player,base) {
 		hs += 'box-sizing: border-box;';
 		hs+='left: 0px;';
 		hs+='top:  0px;';
-		hs+='width: 202px;';
-		hs+='height: 52px;';
+		hs+='width: auto;';
+		hs+='height: auto;';
 		hs+='background: #ffffff;';
-		hs+='border: 1px solid #000000;';
+		hs+='border: 0px solid #000000;';
 		hs+='border-radius: 25px;';
 		hs+=cssPrefix + 'border-radius: 25px;';
 		hs+='color: rgba(23,71,157,1);';
-		hs+='font-size: 14px;';
-		hs+='font-weight: inherit;';
+		hs+='font-size: 15px;';
+		hs+='font-weight: bold;';
 		hs+='text-align: center;';
-		hs+='white-space: pre-wrap;';
-		hs+='padding: 6px 7px 6px 7px;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 8px 9px 8px 9px;';
 		hs+='overflow: hidden;';
 		els.setAttribute('style',hs);
 		els.innerHTML="ENTER HONOUR LAB";
@@ -13950,7 +13950,7 @@ function pano2vrSkin(player,base) {
 			return player.getCurrentNode();
 		}
 		me._btn_start.onclick=function (e) {
-				player.playSound("_background","1");
+				player.playSound("Element01","1");
 			me._bg_intro.style[domTransition]='none';
 			me._bg_intro.style.visibility='hidden';
 			me._bg_intro.ggVisible=false;
@@ -13964,12 +13964,14 @@ function pano2vrSkin(player,base) {
 			}
 			if (this.parentNode) {
 				var pw=this.parentNode.clientWidth;
-				var w=this.offsetWidth + 2;
+				var w=this.offsetWidth + 0;
 					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
 				var ph=this.parentNode.clientHeight;
 				var h=this.offsetHeight;
 					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
 			}
+			this.style[domTransition]='left 0';
+			this.ggTextDiv.style.left=((198-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
 		me._bg_intro.appendChild(me._btn_start);
 		me.divSkin.appendChild(me._bg_intro);
