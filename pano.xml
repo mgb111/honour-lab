@@ -167,7 +167,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="11-03-2026 10:09" source="" copyright="" info="" nodeid="node1" title="NMR Lab" description="1 Video Hotspot" tags="Main-menu|NMR|ProcessRD" heading="0" comment="" longitude="78.378111" altitude="553.50" customnodeid="" latitude="17.666861"/>
+    <userdata author="" datetime="11-03-2026 10:09" source="" copyright="" info="" nodeid="node1" title="NMR Lab" description="▶️" tags="Main-menu|NMR|ProcessRD" heading="0" comment="" longitude="78.378111" altitude="553.50" customnodeid="" latitude="17.666861"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -610,7 +610,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="11-03-2026 12:01" source="" copyright="" info="" nodeid="node22" title="Lab III" description="3 Video Hotspots" tags="Lab-III|Labs|Main-menu|ProcessRD" heading="0" comment="" longitude="78.377944" altitude="581.10" customnodeid="" latitude="17.666278"/>
+    <userdata author="" datetime="11-03-2026 12:01" source="" copyright="" info="" nodeid="node22" title="Lab III" description="▶️▶️▶️" tags="Lab-III|Labs|Main-menu|ProcessRD" heading="0" comment="" longitude="78.377944" altitude="581.10" customnodeid="" latitude="17.666278"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -1060,7 +1060,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="11-03-2026 14:40" source="" copyright="" info="" nodeid="node49" title="Process Safety Lab" description="2 Video Hotspots" tags="Labs|Main-menu|Process-safety|ProcessRD" heading="0" comment="" longitude="78.378389" altitude="574.20" customnodeid="" latitude="17.666278"/>
+    <userdata author="" datetime="11-03-2026 14:40" source="" copyright="" info="" nodeid="node49" title="Process Safety Lab" description="▶️▶️" tags="Labs|Main-menu|Process-safety|ProcessRD" heading="0" comment="" longitude="78.378389" altitude="574.20" customnodeid="" latitude="17.666278"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -1477,7 +1477,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="11-03-2026 15:40" source="" copyright="" info="" nodeid="node72" title="KiloLab" description="1 Video Hotspot" tags="kilo-lab|Labs|Main-menu|ProcessRD" heading="0" comment="" longitude="78.377611" altitude="566.40" customnodeid="" latitude="17.666000"/>
+    <userdata author="" datetime="11-03-2026 15:40" source="" copyright="" info="" nodeid="node72" title="KiloLab" description="▶️" tags="kilo-lab|Labs|Main-menu|ProcessRD" heading="0" comment="" longitude="78.377611" altitude="566.40" customnodeid="" latitude="17.666000"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -2035,7 +2035,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="12-03-2026 10:40" source="" copyright="" info="" nodeid="node93" title="Mass Spectroscopy" description="1 Text Hotspot" tags="AnalyticalRD|Labs|Main-menu|mass-spectroscopy" heading="0" comment="" longitude="78.378222" altitude="546.30" customnodeid="" latitude="17.666639"/>
+    <userdata author="" datetime="12-03-2026 10:40" source="" copyright="" info="" nodeid="node93" title="Mass Spectroscopy" description="ℹ️" tags="AnalyticalRD|Labs|Main-menu|mass-spectroscopy" heading="0" comment="" longitude="78.378222" altitude="546.30" customnodeid="" latitude="17.666639"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -2387,7 +2387,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="12-03-2026 11:03" source="" copyright="" info="" nodeid="node102" title="Preparative Chromatography" description="📹 1" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="519.90" customnodeid="" latitude="17.666444"/>
+    <userdata author="" datetime="12-03-2026 11:03" source="" copyright="" info="" nodeid="node102" title="Preparative Chromatography" description="ℹ️" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="519.90" customnodeid="" latitude="17.666444"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -2528,7 +2528,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="12-03-2026 11:52" source="" copyright="" info="" nodeid="node124" title="Wet Chemistry" description="1 Video Hotspot" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="521.50" customnodeid="" latitude="17.665889"/>
+    <userdata author="" datetime="12-03-2026 11:52" source="" copyright="" info="" nodeid="node124" title="Wet Chemistry" description="▶️" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="521.50" customnodeid="" latitude="17.665889"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
@@ -3266,7 +3266,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="12-03-2026 12:51" source="" copyright="" info="" nodeid="node156" title="Stability Zone" description="1 Video Hotspot" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378083" altitude="599.60" customnodeid="" latitude="17.666056"/>
+    <userdata author="" datetime="12-03-2026 12:51" source="" copyright="" info="" nodeid="node156" title="Stability Zone" description="▶️" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378083" altitude="599.60" customnodeid="" latitude="17.666056"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
