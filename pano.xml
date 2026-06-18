@@ -2387,7 +2387,7 @@
       <min fov="50" tilt="-90" pan="0"/>
       <max fov="90" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
     </view>
-    <userdata author="" datetime="12-03-2026 11:03" source="" copyright="" info="" nodeid="node102" title="Preparative Chromatography" description="1 Text Hotspot" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="519.90" customnodeid="" latitude="17.666444"/>
+    <userdata author="" datetime="12-03-2026 11:03" source="" copyright="" info="" nodeid="node102" title="Preparative Chromatography" description="📹 1" tags="AnalyticalRD|Labs|Main-menu|Rendered" heading="0" comment="" longitude="78.378222" altitude="519.90" customnodeid="" latitude="17.666444"/>
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" enabled="1" width="180" textcolor="0x000000" borderalpha="1" background="1" wordwrap="1" borderradius="1" height="20" border="1" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
